@@ -1,0 +1,1 @@
+{"version":3,"file":"query.dto.js","sourceRoot":"","sources":["../../../src/news/dto/query.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AACA,6CAA8C;AAC9C,qDAAwD;AAGxD,MAAa,YAAY;CAYxB;AAZD,oCAYC;AALG;IANC,IAAA,0BAAQ,GAAE;IACV,IAAA,4BAAU,GAAE;IACZ,IAAA,qBAAW,EAAC;QACT,WAAW,EAAG,eAAe;QAC7B,OAAO,EAAG,EAAE;KACf,CAAC;;4CACe;AAIjB;IAFC,IAAA,0BAAQ,GAAE;IACV,IAAA,4BAAU,GAAE;;+CACO"}
